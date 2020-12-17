@@ -3,6 +3,7 @@
     "description": "集合巨量引擎，广点通，快手，百度的一系列投放平台对接而封装的一个SDK",
     "type": "library",
     "version": "v1.0.0",
+    "license": "MIT",
     "authors": [
         {
             "name": "早安丿清晨",
